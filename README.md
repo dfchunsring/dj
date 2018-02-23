@@ -27,6 +27,13 @@
 <a href="https://github.com/3fmd/gm/blob/master/ffq.md"><img src="img/fq.jpg" width=880></a>
 
 <hr><div align="center">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0224/1%E6%B4%BB%E6%91%98-f-%E6%B4%BB%E6%91%98%E5%99%A8%E5%AE%98%E7%BD%AA%E8%A1%8C%E7%AC%AC%E4%B8%80%E8%A1%8C%E6%94%BF%E8%B2%AC%E4%BB%BB%E4%BA%BA%E2%94%80%E2%94%80%E9%99%B3%E6%94%BF%E9%AB%98.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0224/1%E6%B4%BB%E6%91%98-f-%E8%98%87%E5%AE%B6%E5%B1%AF%E8%A1%80%E6%A0%93%E9%86%AB%E9%99%A2%E6%9C%89%E7%84%9A%E5%B1%8D%E7%88%90.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0224/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-f%E9%81%B2%E5%88%B0%E7%9A%84%E9%91%BD%E6%88%92.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0224/2-%E7%A5%9B%E7%97%85%E5%81%A5%E8%BA%AB-f-%E6%80%A7%E5%91%BD%E9%9B%99%E4%BF%AE%20%E7%A5%9E%E5%8A%9F%E5%90%B8%E5%BC%951%E5%84%84%E4%BA%BA.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0224/3-%E8%BF%AB%E5%AE%B3-f-%E5%A4%A9%E4%B9%8B%E9%A9%95%E5%AD%90%E5%B0%8D%E7%94%9F%E5%91%BD%E7%9A%84%E6%80%9D%E8%80%83%E2%80%94%E2%80%94%E7%A7%A6%E9%B5%AC%E7%9A%84%E6%95%85%E4%BA%8B.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0224/5-%E4%B8%89%E9%80%80-f-%E6%AF%8F%E6%97%A5%E4%B8%89%E9%80%80%E8%81%B2%E6%98%8E%E7%B2%BE%E9%81%B8%EF%BC%882017-02-21%EF%BC%89.jpg">
+<img src="https://github.com/pkey5/dj/blob/master/tu_wen/0224/9-%E9%96%93%E6%8E%A5-f-%E7%B9%AA%E7%95%AB%EF%BC%9A%E3%80%8A%E7%B4%B0%E8%AA%9E%E6%BD%A4%E5%BF%83%E7%94%B0%E3%80%8B.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0223/1-%E8%87%AA%E7%84%9A-%E5%90%84%E7%95%8C%E7%9C%8B%E3%80%8C%E8%87%AA%E7%84%9A%E3%80%8D%E9%80%A0%E5%81%87.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0223/2-%E5%A4%A7%E6%B3%95%E7%BE%8E%E5%A5%BD-%E4%BF%AE%E7%85%89%E7%BE%8E%E5%A5%BD%E8%AA%9E%E9%9B%A3%E8%A8%B4%20%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%AD%B8%E5%93%A1%E6%96%B0%E5%B9%B4%E8%A9%B1%E6%84%9F%E6%81%A9.jpg">
 <img src="https://github.com/pkey5/dj/blob/master/tu_wen/0223/2-%E6%B4%AA%E5%82%B3-%E5%8D%B0%E5%B0%BC%E9%9B%85%E5%8A%A0%E9%81%94%E6%85%B6%E6%96%B0%E5%B9%B4%20%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%8F%97%E6%AD%A1%E8%BF%8E.jpg">
