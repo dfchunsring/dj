@@ -1,4 +1,4 @@
-<img src="img/lian-y3-0226jpg" width=880></a>
+<img src="img/lian-y3-0226.jpg" width=880></a>
 <H1 align="center">请大家告诉大家，错过可能得等一年！请通过翻墙软件自由门、无界浏览或爱博电视及 iNTD TV看观看。</H1>
 <TABLE border="1">
 <div >	
