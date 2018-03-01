@@ -1,6 +1,10 @@
-<img src="img/lian-y3-0222.jpg" width=880></a>
-<H1 align="center">错过2018年新唐人全球华人新年晚会的朋友，元宵节可能还有一场回放，再错过可能要再等一年，请大家告诉大家！</H1>
-<a href="https://git.io/sss"><IMG SRC="img/s3.jpg" width=880></a></p>
+<img src="img/lian-y3-02226.jpg" width=880></a>
+
+<H1 align="center"><a href="git.io/wh">请大家告诉大家，错过可能得等一年！<br>请通过翻墙软件自由门、无界浏览或爱博电视及 iNTD TV看观看。</a></H1>
+
+<a href="https://git.io/good"><b>神韵晚会台湾场次表 epub电子书</b></a>
+
+<a href="https://git.io/sss"><IMG SRC="img/a0301.jpg" width=880></a></p>
 <TABLE border="1">
 <div >	
 <TR>
