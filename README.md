@@ -1,12 +1,9 @@
-<img src="img/lian-y3-0226.jpg" width=880></a>
-
-<H1 align="center"><a href="git.io/wh">请大家告诉大家，错过可能得等一年！<br>请通过翻墙软件自由门、无界浏览或爱博电视及 iNTD TV看观看。</a></H1>
->
+<img src="img/lian-y3-0306.jpg" width=880></a>
+<IMG SRC="img/sy-IP-orange-0306.jpg" width=880><br>
+<a href="https://git.io/good"><b>神韵晚会台湾场次表 epub电子书</b></a>
+<h4><a href="http://www.shenyun.com">观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</a></h4>
 <TABLE border="1">
 <div >	
-<TR>
-	<TD><a href="https://git.io/wh"><IMG SRC="img/a0301.jpg" width=880></a></TD>
-</TR>
 <TR>
 <TD align="center"><b><br>《九评》编辑部新书——《共产主义的终极目的——中国篇》<p>
 	
